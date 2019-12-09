@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 269067397426350769}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2.5875, y: 4.017389, z: 17.50821}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -704,7 +704,7 @@ Material:
     - _TranslucencyViewDependency: 0.7
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _TranslucencyColor: {r: 0.73, g: 0.85, b: 0.41, a: 1}
+    - _TranslucencyColor: {r: 0.8509804, g: 0.4117647, b: 0.8267945, a: 1}
     - _TreeInstanceColor: {r: 1, g: 1, b: 1, a: 1}
     - _TreeInstanceScale: {r: 1, g: 1, b: 1, a: 1}
 --- !u!43 &6459330679513282931
